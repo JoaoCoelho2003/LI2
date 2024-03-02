@@ -2,7 +2,7 @@
 
 ## Overview
 
-LI2 is an interpreter for a stack-oriented programming language was developed as a group project during the second semester of the Software Engineering degree at the University of Minho. The project was part of the "Laboratórios de Informática II" subject and involved the full development process.
+LI2 is an interpreter for a stack-oriented programming language and was developed as a group project during the second semester of the Software Engineering degree at the University of Minho. The project was part of the "Laboratórios de Informática II" subject and involved the full development process.
 
 ## Description
 
